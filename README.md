@@ -13,7 +13,8 @@
   ```shell
   gunzip rockyou.txt.gz
   ```
-  > ![image](https://github.com/WanShannn/Crack-File-Password-JohnTheRipper/blob/main/result/0.png)
+  > ![image](https://github.com/WanShannn/Crack-File-Password-JohnTheRipper/blob/main/result/0-1.png)
+  > ![image](https://github.com/WanShannn/Crack-File-Password-JohnTheRipper/blob/main/result/0-2.png)
 
 ## **攻擊**
 * 指令
