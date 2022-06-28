@@ -27,8 +27,8 @@
 * 已破解的檔案不接受再次破解
 * 破解完的內容將會存在 ~/.john/john.pot 裡面
 * 把檔案john.pot內容清空即可再次破解
-> ![image](https://github.com/WanShannn/Crack-File-Password-JohnTheRipper/blob/main/result/2-1.PNG)
-> ![image](https://github.com/WanShannn/Crack-File-Password-JohnTheRipper/blob/main/result/2-2.PNG)
+> ![image](https://github.com/WanShannn/Crack-File-Password-JohnTheRipper/blob/main/result/2-1.png)
+> ![image](https://github.com/WanShannn/Crack-File-Password-JohnTheRipper/blob/main/result/2-2.png)
   
 ## **References**
 * https://zh.wikipedia.org/zh-tw/John_The_Ripper
