@@ -33,3 +33,4 @@
 * https://zh.wikipedia.org/zh-tw/John_The_Ripper
 * https://hackercat.org/hacker-tools/john-the-ripper
 * https://github.com/openwall/john
+* http://secretbase2000.blogspot.com/2016/12/kali-linux-2.html
